@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56005961888",
+    "firebase_url": "https://jasontry-b965e.firebaseio.com",
+    "project_id": "jasontry-b965e",
+    "storage_bucket": "jasontry-b965e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56005961888:android:169aeae54a5dba247501c5",
+        "android_client_info": {
+          "package_name": "com.example.jasontry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56005961888-sqrlqdtin01r2g93tkaohspf9ojnsbeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jasontry",
+            "certificate_hash": "53e65a196335076894f0533c2b78fb3781b04be6"
+          }
+        },
+        {
+          "client_id": "56005961888-kv48purjn11815nu893pl70a56tj89tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCGBD2sge8F-M6EIBJ3eWAb_aVLSDuus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56005961888-kv48purjn11815nu893pl70a56tj89tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606841764686",
+    "firebase_url": "https://pluralsight-f3858.firebaseio.com",
+    "project_id": "pluralsight-f3858",
+    "storage_bucket": "pluralsight-f3858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606841764686:android:900ea3d883f1728a",
+        "android_client_info": {
+          "package_name": "com.example.pluralsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606841764686-n84gnbuc9rbhndth13c0bi3shsajivd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTySUo9bLghOlWI-_1QVbYH-GRp211Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606841764686-n84gnbuc9rbhndth13c0bi3shsajivd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
